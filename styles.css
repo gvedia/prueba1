@@ -1,0 +1,115 @@
+
+#nav{
+    background-color: #2B2B2B;
+    
+    height: 55px;
+    margin-top: 15px;
+   /* border: none;*/
+  
+    margin-bottom: -10px;
+    
+}
+#nav h3{
+    color: white;
+    position: relative;
+    margin: -15px;
+    left: 40px;
+    padding-top: 5px;
+}
+#loguitos{
+    position: relative;
+    top: 40px;
+}
+#loguitos li a button{
+    border-radius: 20%;
+}
+.mat-card{
+    border-radius: 32px;
+    margin: 10px 10px;
+    padding: 20px;
+    border-color: #0a66c2;
+}
+.mat-card#first-card{
+    padding: 0;
+    height: 730px;
+    
+}
+#logos-nav{
+    list-style-type: none;
+  margin: 0;
+  padding: 0;
+  position: relative;
+  left: 80%;
+  bottom: 50px;
+}
+#logos-nav li{
+    display: inline;
+
+}
+#navbarSupportedContent li a img{
+    width: 32px;
+    height: 32px;
+    margin-right: 8px;
+}
+div#profile-background{
+    display: flex;
+    z-index: 1;
+    
+}
+div#profile-background img{
+    width: 100%;
+    height: 500px;
+    border-radius: 32px 32px;
+    
+}
+.img-profile{
+    border-radius: 50%;
+    width: 152px;
+    height: 152px;
+    margin-top: -110px;
+    z-index: 1;
+    
+}
+div#info-img{
+    display: flex;
+}
+div#info-data ul#info-details li a{
+    color: black;
+    display: flex;
+    text-decoration: none;
+}
+div#info-data ul#info-details li a h2{
+    font-size: 1rem;
+    font-weight: 500;
+    align-self: center;
+    vertical-align: baseline;
+}
+div#info-data ul#info-details li a img{
+    width: 32px;
+    height: 32px;
+    margin-right: 8px;
+}
+div#info-data ul#info-details{
+    list-style: none inside;
+}
+div#info-data ul#info-details li{
+    display: flex;
+    margin: 10px 0;
+}
+
+div#logos{
+   display: inline;
+    position: relative;
+    left: 75%;
+    bottom: 80px;
+    
+}
+div#info-action{
+    position: relative;
+    bottom: 95px;
+    margin-top: 5px;
+}
+div#btn{
+    position: relative;
+    left: 95%;
+}
